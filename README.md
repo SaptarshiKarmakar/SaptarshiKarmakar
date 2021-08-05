@@ -20,16 +20,16 @@
 
 ### Languages and Tools
 
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/C++.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/java.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Python.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/VS code.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/html.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/CSS3.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/bootstrap.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/JavaScript.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/nodejs.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Mysql.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/DBMS.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Git.png" />
-<img align="left" height="40" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/GitHub.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/C++.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/java.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Python.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/VS code.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/html.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/CSS3.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/bootstrap.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/JavaScript.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/nodejs.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Mysql.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/DBMS.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/Git.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/GitHub.png" />
