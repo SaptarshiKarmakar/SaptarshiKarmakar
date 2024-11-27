@@ -11,10 +11,10 @@
   <img align="left" alt="Saptarshi's Linkdein" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/saptarshi_karmakar/">
-  <img align="left" alt="Saptarshi's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Saptarshi's instagram" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/saptarshi.karmakar.507/">
-  <img align="left" alt="Saptarshi's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Saptarshi's facebook" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/facebook.png" />
 </a>
 <br/>
 
