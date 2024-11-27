@@ -8,13 +8,13 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/saptarshi-karmakar/">
-  <img align="left" alt="Saptarshi's Linkdein" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/linkedin.png" />
+  <img align="left" alt="Saptarshi's Linkdein" height="25" width="25px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/saptarshi_karmakar/">
-  <img align="left" alt="Saptarshi's instagram" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/instagram.png" />
+  <img align="left" alt="Saptarshi's instagram" height="30" width="30px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/saptarshi.karmakar.507/">
-  <img align="left" alt="Saptarshi's facebook" width="22px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/facebook.png" />
+  <img align="left" alt="Saptarshi's facebook" height="25" width="25px" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/facebook.png" />
 </a>
 <br/>
 
