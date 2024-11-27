@@ -32,7 +32,7 @@
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/Jira.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/JavaScript.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/nodejs.png" />
-<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/Intellij.png" />
+<img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/IntelliJ.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/VS code.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/html.png" />
 <img align="left" height="35" src="https://raw.githubusercontent.com/SaptarshiKarmakar/SaptarshiKarmakar/master/ProfileIcons/CSS3.png" />
