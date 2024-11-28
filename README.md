@@ -1,7 +1,7 @@
 ## Hi there, I’m Saptarshi 👋
 
-- 👀 I'm a Passionate Programmer who loves to solo ride!
 - 🌱 Java Developer.
+- 👀 I'm a Passionate Programmer who loves to solo ride!
 - 💞️ Goals: To get a strong hold on Competetive Coding.
 - ⚡ Fun fact: I love to play with code!!
 
